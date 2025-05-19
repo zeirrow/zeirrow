@@ -2,7 +2,7 @@
 
 <!-- 👑 VILLAIN MODE INITIATED -->
 
-<h1 align="center">You’re in my world now. Welcome to the repo throne. 👑</h1>
+<h1 align="center">You’re in my domain now. Welcome to the repo throne. 👑</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=5000&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=VILLAINS+RUN+THIS+REPO.;HEROES+ARE+FOR+BEDTIME+STORIES.;I+WRITE+CODE+THAT+TERRIFIES+BUGS.;I+DON'T+FOLLOW+RULES%2C+I+REWRITE+THEM.;YOU+WANT+A+HAPPY+ENDING%3F+TRY+DISNEY.;KINGS+DON'T+TALK%2C+THEY+DEPLOY.;SCROLL+DOWN+IF+YOU+DARE." alt="Typing SVG" />
@@ -54,10 +54,10 @@
 </p>
 
 ---
-<div align="left">
-
-<h3 align="center### 🚀 Latest Work</h3>
 > 💼 Wanna know what I’m cooking? You better check the **repos** — I drop heat like it's routine.
+
+<div align="left">
+<h3> 🚀 Latest Work</h3>
 
 <table width="100%">
   <thead>
