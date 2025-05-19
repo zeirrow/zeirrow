@@ -1,4 +1,4 @@
-<!-- README for Udodirim5 -->
+<!-- README for zeirrow -->
 
 <!-- 👑 VILLAIN MODE INITIATED -->
 
@@ -41,16 +41,16 @@
 
 ### 📈 Stats & Rituals
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udodirim5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Udodirim5&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeirrow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=zeirrow&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udodirim5&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeirrow&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udodirim5&bg_color=0d1117&color=F7931E&line=F97316&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeirrow&bg_color=0d1117&color=F7931E&line=F97316&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
